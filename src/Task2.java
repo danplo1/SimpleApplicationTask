@@ -9,7 +9,7 @@ public class Task2 {
         JOptionPane.showMessageDialog(null, "Hello World!");
         String password = JOptionPane.showInputDialog(null, "Podaj hasło:");
 
-        if(password.equals("Daniel")){
+        if(password.equals("Academy")){
 
             JOptionPane.showMessageDialog(null, "Podałeś poprawne hasło! :)");
         }
@@ -19,7 +19,7 @@ public class Task2 {
         }
 
         /*
-        Program który odczytuje hasło, sprawdza czy hasło to Akdemia. Jesli hasło
+        Program który odczytuje hasło, sprawdza czy hasło to Academy. Jesli hasło
         jest poprawnie wpisane to wypisuje komunikat gratulacje , a jesli nie to nic
          */
     }
